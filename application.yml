@@ -1,5 +1,5 @@
 server:
-  port: 7700
+  port: 0
 spring:
   cloud:
     config:
